@@ -5,7 +5,6 @@
   
 <div id="header" align="right">
   <a href="https://www.linkedin.com/in/gabriel-viterbo/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;
 </div>
